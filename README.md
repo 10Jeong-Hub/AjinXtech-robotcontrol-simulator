@@ -3,7 +3,7 @@
 > **NI2.0 AID 해커톤 | 매칭 기업: (주)아진엑스텍 (AJINEXTEK)**  
 > 전공 학생들이 산업용 6축 수직다관절 로봇의 모션 제어 원리(가속·등속·감속 속도 프로파일)와 관절 움직임을 직관적으로 학습할 수 있도록 구현한 3D 인터랙티브 웹 시뮬레이터입니다.
 
- **Live Demo:** `https://[깃허브아이디].github.io/axt-motion-sim/` *(PC 브라우저 권장)*
+ **Live Demo:** `https://[깃허브아이디].github.io/AjinXtech-robotcontrol-simulator/` *(PC 브라우저 권장)*
 
 ---
 
